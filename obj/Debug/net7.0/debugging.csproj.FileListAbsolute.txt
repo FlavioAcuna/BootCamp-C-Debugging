@@ -1,0 +1,15 @@
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\debugging.csproj.AssemblyReference.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\debugging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\debugging.AssemblyInfoInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\debugging.AssemblyInfo.cs
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\debugging.csproj.CoreCompileInputs.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\bin\Debug\net7.0\debugging.exe
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\bin\Debug\net7.0\debugging.deps.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\bin\Debug\net7.0\debugging.runtimeconfig.json
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\bin\Debug\net7.0\debugging.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\bin\Debug\net7.0\debugging.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\debugging.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\refint\debugging.dll
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\debugging.pdb
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\debugging.genruntimeconfig.cache
+E:\Dev\BootCamp C# Sonda\semana 6 asignaciones\dia 1\debugging\obj\Debug\net7.0\ref\debugging.dll
